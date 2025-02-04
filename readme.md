@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains scripts developed for baseflow separation, as part of my PhD and the methods are described in Section 4.1.3 of my thesis titled "Urban hydrogeological modelling and uncertainty characterisation to evaluate the risk of groundwater flooding" (link to be added).
+This repository contains scripts developed for baseflow separation as part of my PhD, and the methods are described in Section 4.1.3 of my thesis titled "Urban hydrogeological modelling and uncertainty characterisation to evaluate the risk of groundwater flooding" (link to be added).
 
 The scripts were adapted from <https://github.com/samzipper/GlobalBaseflow> and re-written in Python.
 
